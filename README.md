@@ -9,7 +9,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-bineeshpc.github.io-blue?style=flat-square&logo=google-chrome)](https://bineeshpc.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bineesh--P-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/bineesh-p)
 [![GitHub](https://img.shields.io/badge/GitHub-bineeshpc-181717?style=flat-square&logo=github)](https://github.com/bineeshpc)
-[![Email](https://img.shields.io/badge/Email-bineeshpc@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:bineeshpc@gmail.com)
 
 </div>
 
