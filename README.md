@@ -15,42 +15,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-### 🚀 **Xnterprise** | Senior AI Engineer (Jan 2024 – Present)
-*Munich, Germany*
-- Designed AI-powered automated claims approval system using multi-agent GenAI architecture
-- Built LLM-powered RAG-based virtual assistant for insurance policy queries
-- Improved claim processing speed by ~30% and customer engagement by ~30%
-
-### 📊 **Evalueserve** | Senior Data Scientist (Mar 2022 - Feb 2023)
-*Bangalore, India*
-- Developed Conversational AI platform leveraging LLMs, NLP, and Rasa
-- Integrated speech-to-text and text-to-speech for voice-based interactions
-- Built interactive D3.js visualizations with dynamic response generation
-
-### 🏢 **Mindtree** | Senior Data Scientist (Dec 2019 - Dec 2021)
-*Bangalore, India*
-- Built product recommendation engine using computer vision and deep learning
-- Developed credit risk model using XGBoost, reducing default risk by 15%
-- Deployed models hierarchically on AzureML, improving sales by 20%
-
-### 💻 **Tech Mahindra** | ML Engineer / Data Scientist (Mar 2015 - Aug 2018)
-*Bangalore, India*
-- Developed distinct author identification system used by 15M+ researchers
-- Built customer churn prediction model improving retention by 25%
-- Trained ML pipelines on Hadoop/Spark with 30% F1-score improvement
-
----
-
-## 🎓 Education
-
-- **Master of Science in AI/ML** — Liverpool John Moores University, UK
-- **Executive Post Graduation in AI/ML** — International Institute of Information Technology, Bangalore
-- **Bachelor of Technology in Computer Science & Engineering** — National Institute of Technology, Calicut
-
----
-
 ## 🛠️ Technical Skills
 
 ### 🤖 **Generative AI & LLMs**
@@ -108,7 +72,6 @@ I'm always interested in discussing:
 - 💼 Collaboration and partnership opportunities
 
 Feel free to reach out:
-- 💬 **Email**: [bineeshpc@gmail.com](mailto:bineeshpc@gmail.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/bineesh-p](https://linkedin.com/in/bineesh-p)
 - 🐙 **GitHub**: [github.com/bineeshpc](https://github.com/bineeshpc)
 
